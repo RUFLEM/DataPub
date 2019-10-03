@@ -1,12 +1,12 @@
 {
-  "name": "Ian Devling",
-  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
+  "name": "Aaron Gowell",
+  "imageUrl": "Images/Aaron.png",
   "area": "Corporate",
   "profileUrl": "'example.com",
   "office": "CTO office",
   "tags": "Ceo,tag1,manager,cto",
   "isLoggedUser": false,
-  "positionName": "Cheaf Executive Officer ",
+  "positionName": "Chief Executive Officer ",
   "children": [{
     "name": "Davolio Nancy",
     "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
